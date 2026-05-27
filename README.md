@@ -117,3 +117,4 @@ Product Strategy: Identifies high-performing categories and sub-categories for i
 Operational Efficiency: Shipping mode analysis supports logistics planning and cost optimization.
 Data-Driven Decision Making: Enables faster strategic business decisions through centralized analytics.
 6. Screenshots / Demos
+![Dashboard Preview]()
